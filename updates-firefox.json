@@ -3,7 +3,7 @@
     "ticket-collector@gfsquad": {
       "updates": [
         {
-          "version": "3.2.5",
+          "version": "3.2.7",
           "update_link": "https://github.com/ljmatic96-dotcom/ext-updates/raw/main/ticket-collector-firefox.xpi"
         }
       ]
