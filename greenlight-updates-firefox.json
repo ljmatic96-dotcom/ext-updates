@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "greenlight-da@gfsquad": {
+      "updates": [
+        {
+          "version": "1.0",
+          "update_link": "https://github.com/ljmatic96-dotcom/ext-updates/raw/main/greenlight-da-firefox.xpi"
+        }
+      ]
+    }
+  }
+}
